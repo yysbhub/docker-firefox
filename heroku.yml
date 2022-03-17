@@ -9,3 +9,4 @@ build:
     -v /docker/appdata/firefox:/config:rw \
     --shm-size 2g \
     jlesage/firefox
+    
