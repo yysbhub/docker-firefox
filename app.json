@@ -2,14 +2,6 @@
   "name": "firefox",
   "description": "Firefox on Heroku",
   "keywords": ["Firefox"],
-  "env": {
-    
-    "CTITLE": {
-       "description": "网站标题",
-       "value": "Firefox on heroku"
-    },
-    
-  },
   "website": "https://hub.docker.com/r/jlesage/firefox",
   "repository": "https://hub.docker.com/r/jlesage/firefox",
   "stack": "container"
