@@ -2,7 +2,7 @@
   "name": "firefox",
   "description": "Firefox on Heroku",
   "keywords": ["Firefox"],
-  "website": "https://hub.docker.com/r/jlesage/firefox",
-  "repository": "https://hub.docker.com/r/jlesage/firefox",
+  "website": "https://github.com/yysbhub/docker-firefox",
+  "repository": "https://github.com/yysbhub/docker-firefox",
   "stack": "container"
 }
